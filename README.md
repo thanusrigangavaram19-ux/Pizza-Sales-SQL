@@ -136,10 +136,22 @@ Through this project, I practised:
 ## 📁 Project Files
 
 - `Pizza sql project.pdf` — Project documentation.
-- `pizza_sales_queries.sql` — SQL query file to be added.
-- `README.md` — Project overview, objectives, and documentation.
 
-*The SQL query file should be included only after the actual queries have been saved and uploaded.*
+- `README.md` — Project overview, objectives, and documentation.
+## ⭐ Key Features
+
+- **Sales Performance Analysis:** Analyses total orders and revenue generated from pizza sales.
+- **Product Price Analysis:** Identifies the highest-priced pizza.
+- **Customer Preferences:** Examines the most commonly ordered pizza size.
+- **Top-Selling Products:** Identifies the top five pizza types by quantity ordered.
+- **Category Analysis:** Analyses pizza quantities across different categories.
+- **Hourly Order Trends:** Examines how orders are distributed throughout the day.
+- **Daily Sales Analysis:** Calculates the average number of pizzas ordered per day.
+- **Revenue Ranking:** Identifies the top three pizza types based on revenue.
+- **Revenue Contribution:** Calculates each pizza type's percentage contribution to total revenue.
+- **Cumulative Revenue Analysis:** Tracks revenue accumulated over time.
+
+These features demonstrate how SQL can be used to explore sales data and answer business-related questions.
 
 ## ✅ Conclusion
 
