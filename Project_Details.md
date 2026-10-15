@@ -45,4 +45,4 @@ SQL provides a practical way to explore pizza sales data and identify patterns i
 **Project type:** SQL Data Analysis  
 **Focus:** Sales trends, product performance, and revenue analysis
 
-*Note: This document summarizes the analysis questions and skills described in the project. It does not claim specific numerical results.*
+
